@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Product App UI Mockup
 
 ## Table of Contents
@@ -59,3 +60,14 @@ Styling for components is managed using tailwindCSS
 
 
 ## Happy Hacking!
+=======
+# Food App UI
+
+This is Food app ui like swiggy & Zomato
+
+## To create this ui i have do following steps
+
+##-- First  i go to pinterest for design
+##-- then i head over to the chatgpt for suggestion and file structure 
+##--Third one is nothing but code.
+>>>>>>> 57892ae0a7e786da4bf28b1454be369d2f9f03c1
