@@ -1,6 +1,7 @@
 import React from 'react';
 import { categories } from '../data/data.jsx';
 
+
 const Category = () => {
   console.log(categories);
   return (
