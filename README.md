@@ -37,6 +37,13 @@ my-e-commerce-app/
   ├── README.md
   └── .gitignore
 ```
+
+## Tech Stack
+
+- React
+- TailwindCSS
+
+
 ## Components
 
 The project includes several React components for building the UI:
