@@ -9,7 +9,7 @@ const Navbar = () => {
 const [nav, setNav] = useState(false)
 
   return (
-    <div className='max-w-[1640px] mx-auto flex justify-between items-center p-4  bg-gray-300 sticky'>
+    <div className='max-w-[1640px] mx-auto flex justify-between items-center p-4  bg-gray-300'>
       {/* Left side */}
       <div className='flex items-center'>
         <div onClick={()=> setNav(!nav)} className='cursor-pointer'>
