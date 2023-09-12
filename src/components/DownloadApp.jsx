@@ -7,10 +7,10 @@ const DownloadApp = () => {
               <div>
                 <p className="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider uppercase bg-teal-accent-400 text-teal-900 rounded-full">Brand new</p>
               </div>
-              <h2 className="font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none max-w-lg mb-6">
+              <h2 className="font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none max-w-lg mb-5">
                 Download 
                 <br className="hidden md:block" />
-                the app{' '}
+                 <br/>the app{' '}
                 <span className="inline-block text-deep-purple-accent-400">now!</span>
               </h2>
               <p className="text-gray-700 text-base md:text-lg">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.</p>
